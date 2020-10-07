@@ -10,12 +10,12 @@ namespace Hackathon_2.Models
     #region properties
     public interface IAnalog
       {
-         void MovingHand();
-         void StrapColor();
-         void StrapType();
-         void ManufacturingCountry();
-         void Price_Range();
-        void Calender_Window();
+         abstract void MovingHand();
+         abstract void StrapColor();
+         abstract void StrapType();
+         abstract void ManufacturingCountry();
+         abstract void Price_Range();
+         abstract void Calender_Window();
       }
     #endregion
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shivansh\\Desktop\\case_study01_analogwatch\\Hackathon_2\\Hackathon_2\\Hackathon_2.csproj": {}
+    "C:\\Users\\shivansh\\Desktop\\Hackathon 2\\case_study01_analogwatch\\Hackathon_2\\Hackathon_2\\Hackathon_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shivansh\\Desktop\\case_study01_analogwatch\\Hackathon_2\\Hackathon_2\\Hackathon_2.csproj": {
+    "C:\\Users\\shivansh\\Desktop\\Hackathon 2\\case_study01_analogwatch\\Hackathon_2\\Hackathon_2\\Hackathon_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shivansh\\Desktop\\case_study01_analogwatch\\Hackathon_2\\Hackathon_2\\Hackathon_2.csproj",
+        "projectUniqueName": "C:\\Users\\shivansh\\Desktop\\Hackathon 2\\case_study01_analogwatch\\Hackathon_2\\Hackathon_2\\Hackathon_2.csproj",
         "projectName": "Hackathon_2",
-        "projectPath": "C:\\Users\\shivansh\\Desktop\\case_study01_analogwatch\\Hackathon_2\\Hackathon_2\\Hackathon_2.csproj",
+        "projectPath": "C:\\Users\\shivansh\\Desktop\\Hackathon 2\\case_study01_analogwatch\\Hackathon_2\\Hackathon_2\\Hackathon_2.csproj",
         "packagesPath": "C:\\Users\\shivansh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shivansh\\Desktop\\case_study01_analogwatch\\Hackathon_2\\Hackathon_2\\obj\\",
+        "outputPath": "C:\\Users\\shivansh\\Desktop\\Hackathon 2\\case_study01_analogwatch\\Hackathon_2\\Hackathon_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shivansh\\AppData\\Roaming\\NuGet\\NuGet.Config",
